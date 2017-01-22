@@ -12,6 +12,8 @@
 
 dark colorscheme for NeoVim
 
+![screenshot]
+
 ## Installation
 
 You can use dein.vim to install abyss.vim.
@@ -41,6 +43,7 @@ Copyright (c) 2017 ytet5uy4
 
 Released under the MIT License, see **[LICENSE.md][license-link]**.
 
+[screenshot]: https://raw.githubusercontent.com/wiki/ytet5uy4/abyss.vim/screenshot.png
 [release-badge]: https://img.shields.io/github/release/ytet5uy4/abyss.vim.svg?style=flat-square
 [license-badge]: https://img.shields.io/github/license/ytet5uy4/abyss.vim.svg?style=flat-square
 
