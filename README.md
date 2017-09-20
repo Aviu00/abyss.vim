@@ -43,7 +43,7 @@ Copyright (c) 2017 ytet5uy4
 
 Released under the MIT License, see **[LICENSE.md][license-link]**.
 
-[screenshot]: https://raw.githubusercontent.com/wiki/ytet5uy4/abyss.vim/screenshot.png
+[screenshot]: https://image.ytet5uy4.com/170920171922.png
 [release-badge]: https://img.shields.io/github/release/ytet5uy4/abyss.vim.svg?style=flat-square
 [license-badge]: https://img.shields.io/github/license/ytet5uy4/abyss.vim.svg?style=flat-square
 
