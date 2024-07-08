@@ -154,8 +154,14 @@ call s:hi('CmpItemKindTypeParameter',s:lightgreen,  'NONE',     0)
 hi link @constructor Function
 call s:hi('@property',               s:lightblue,   'NONE',     0)
 call s:hi('@field',                  s:lightblue,   'NONE',     0)
+call s:hi('@type.builtin',           s:lightblue,   'NONE',     0)
+call s:hi('@attribute.builtin',      s:lightblue,   'NONE',     0)
+call s:hi('@function.builtin',       s:lightblue,   'NONE',     0)
 call s:hi('@type.qualifier',         s:cyan,        'NONE',     0)
 call s:hi('@namespace',              s:cyan,        'NONE',     0)
+call s:hi('@variable.builtin',       s:purple,      'NONE',     0)
+call s:hi('@variable.parameter',     s:lightpurple, 'NONE',     0)
+call s:hi('@variable.member',        s:lightpurple, 'NONE',     0)
 
 " EasyMotion
 call s:hi('EasyMotionIncSearch',     s:lightblue,   'NONE',     'bold')
